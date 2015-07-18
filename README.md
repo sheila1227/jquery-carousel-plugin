@@ -61,16 +61,13 @@
 
 ###slide
 
-<center>
-![此处输入图片的描述][1]
-</center>
+
+<img src="http://d.picphotos.baidu.com/album/s=1000;q=90/sign=63ce693c307adab439d01f43bbe4886d/cf1b9d16fdfaaf5168095bab8a5494eef01f7a38.jpg" alt="slide effect"/>
+
 
 ###fade
 
 <center>
-![此处输入图片的描述][2]
+<img src="http://c.picphotos.baidu.com/album/s=1000;q=90/sign=80955c3dedc4b7453094b316ffcc2566/3801213fb80e7becde27d9f5292eb9389b506b21.jpg" alt="slide effect"/>
 </center>
 
-
-  [1]: http://d.picphotos.baidu.com/album/s=1000;q=90/sign=63ce693c307adab439d01f43bbe4886d/cf1b9d16fdfaaf5168095bab8a5494eef01f7a38.jpg
-  [2]: http://c.picphotos.baidu.com/album/s=1000;q=90/sign=80955c3dedc4b7453094b316ffcc2566/3801213fb80e7becde27d9f5292eb9389b506b21.jpg
