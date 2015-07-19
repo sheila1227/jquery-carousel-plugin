@@ -60,14 +60,17 @@
 ##效果预览
 
 ###slide
+![baidu](http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=0281bbfd8bb1cb133a693813ed646d3f/4d086e061d950a7b34219ed60cd162d9f2d3c988.jpg) 
+![slide effect](http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=0281bbfd8bb1cb133a693813ed646d3f/4d086e061d950a7b34219ed60cd162d9f2d3c988.jpg)
 
 
-<img src="http://d.picphotos.baidu.com/album/s=1000;q=90/sign=63ce693c307adab439d01f43bbe4886d/cf1b9d16fdfaaf5168095bab8a5494eef01f7a38.jpg" alt="slide effect"/>
+<div align='center'>
+<img src="http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=0281bbfd8bb1cb133a693813ed646d3f/4d086e061d950a7b34219ed60cd162d9f2d3c988.jpg" alt="slide effect"/>
+</div>
 
 
 ###fade
-
-<center>
+<div style="{text-align:center}">
 <img src="http://c.picphotos.baidu.com/album/s=1000;q=90/sign=80955c3dedc4b7453094b316ffcc2566/3801213fb80e7becde27d9f5292eb9389b506b21.jpg" alt="slide effect"/>
-</center>
+</div>
 
