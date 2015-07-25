@@ -68,8 +68,8 @@
 		return this.each(function() {
 			var $this = $(this);
 			var timer;
-			var $content = $('.' + opts.contentClassName), //滚动对象
-				$quickNav = $('.' + opts.quickNavClassName); //圆点导航
+			var $content = $('.' + opts.contentClassName,$this), //滚动对象
+				$quickNav = $('.' + opts.quickNavClassName,$this); //圆点导航
 			$content.itemWidth = $content.find('li').outerWidth();
 			$content.outerWidth($content.itemWidth * $content.find('li').length);
 			init();
