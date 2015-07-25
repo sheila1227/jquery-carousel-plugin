@@ -60,17 +60,10 @@
 ##效果预览
 
 ###slide
-![baidu](http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=0281bbfd8bb1cb133a693813ed646d3f/4d086e061d950a7b34219ed60cd162d9f2d3c988.jpg) 
-![slide effect](http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=0281bbfd8bb1cb133a693813ed646d3f/4d086e061d950a7b34219ed60cd162d9f2d3c988.jpg)
+![slide effect](https://raw.githubusercontent.com/sheila1227/jquery-carousel-plugin/master/screenshots/e3.gif)
 
-
-<div align='center'>
-<img src="http://g.picphotos.baidu.com/album/s%3D1000%3Bq%3D90/sign=0281bbfd8bb1cb133a693813ed646d3f/4d086e061d950a7b34219ed60cd162d9f2d3c988.jpg" alt="slide effect"/>
-</div>
 
 
 ###fade
-<div style="{text-align:center}">
-<img src="http://c.picphotos.baidu.com/album/s=1000;q=90/sign=80955c3dedc4b7453094b316ffcc2566/3801213fb80e7becde27d9f5292eb9389b506b21.jpg" alt="slide effect"/>
-</div>
+![fade effect](https://raw.githubusercontent.com/sheila1227/jquery-carousel-plugin/master/screenshots/e5.gif)
 
